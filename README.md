@@ -1,4 +1,7 @@
-# Angular CLI ngx-charts Demo
+# Angular4 CLI ngx-charts6 Demo
+
+![screen shot 2018-04-09 at 10 43 46](https://user-images.githubusercontent.com/29293985/38505353-f53bffa6-3be4-11e8-95e6-75c953a671f7.png)
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.2.
 
